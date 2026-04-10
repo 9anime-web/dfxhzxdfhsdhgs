@@ -5,7 +5,7 @@ const PORT   = process.env.PORT || 3000;
 const HOST   = "https://dm.1024terabox.com";
 const APP_ID = "250528";
 const UA     = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
-const PING_URL = "https://status-pyq8.onrender.com";
+const PING_URL = "https://dfxhzxdfhsdhgs.onrender.com";
 
 app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
